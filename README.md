@@ -22,3 +22,9 @@ npm run dev <br/>
 ivan@test-r.ru:2345 <br/>
 irina@test-r.ru:1234 <br/>
 elena@test-r.ru:9876
+
+
+Требования:<br/>
+PHP 8.1<br/>
+MySQL<br/>
+Класс IntlDateFormatter ( Расширение включается в php.ini )
